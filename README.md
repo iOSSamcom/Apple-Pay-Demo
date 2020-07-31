@@ -1,6 +1,6 @@
 # Apple-Pay-Demo
 
-- first of add your app in developer then add Apple Pay Payment Processing capabitities.
+- first of add your app in developer account then add Apple Pay Payment Processing capabitities.
 - then create merchant id using following steps:
 	1	Log on to your Apple Developer account.
 	2	Select Certificates, IDs & Profiles.

@@ -53,7 +53,7 @@ extension ViewController:PKPaymentAuthorizationViewControllerDelegate{
             request.countryCode = "US"
             request.currencyCode = "USD"
             //if you want to add shipping
-            request.shippingContact = .some(PKContact())
+//            request.requiredShippingAddressFields = .all
 
             
             var itemArr = [PKPaymentSummaryItem]()
